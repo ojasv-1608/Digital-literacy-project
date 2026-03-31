@@ -165,4 +165,4 @@ Set up professional profiles on three platforms:
 
 ## 📄 Project Report
 
-The full written project report covering all 5 tasks is available at:
+The full written project report covering all 5 tasks is available at: report/Project_Report.pdf
