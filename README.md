@@ -145,7 +145,7 @@ Set up professional profiles on three platforms:
 
 | Platform | Link |
 |----------|------|
-| GitHub | [github.com/](https://github.com/) |
+| GitHub | [github.com/ojasv-1608](https://github.com/ojasv-1608) |
 | LinkedIn | [linkedin.com/in/ojasv-choubey-270606378](https://www.linkedin.com/in/ojasv-choubey-270606378) |
 | Kaggle | [kaggle.com/ojasvchoubey](https://kaggle.com/ojasvchoubey) |
 | Email | ojasv.25bce10340@vitbhopal.ac.in |
