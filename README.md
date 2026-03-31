@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Aryan Uday Kansagara |
-| **Registration No.** | 25BAI11021 |
+| **Name** | Ojasv Choubey |
+| **Registration No.** | 25CE10340 |
 | **Branch** | CSE (AI & ML) |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
