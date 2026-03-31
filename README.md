@@ -45,30 +45,32 @@ digital-literacy-project/
 │
 ├── task-1-presentation/
 │   ├── Project_Report_1.pdf                  ← Tool used and reflection
-│   └── digital-literacy-infographic.png ← Canva infographic
+│   └── digital-literacy-infographic.png      ← Canva infographic
 │
 ├── task-2-portfolio/
-│   ├── Project_Report_2.pdf                ← Platforms and future plans
-│   ├── github-profile.png             ← GitHub profile screenshot
-│   ├── linkedin-profile.png           ← LinkedIn profile screenshot
-│   └── kaggle-profile.png             ← Kaggle profile screenshot
+│   ├── Project_Report_2.pdf            ← Platforms and future plans
+│   ├── github-profile.jpeg             ← GitHub profile screenshot
+│   ├── linkedin-profile.jpeg           ← LinkedIn profile screenshot
+│   └── kaggle-profile.jpeg             ← Kaggle profile screenshot
 │
 ├── task-3-platforms/
-│   ├── Project_Report_3.pdf                ← Platform overview and reflection
+│   ├── Project_Report_3.pdf           ← Platform overview and reflection
 │   ├── hackerrank/
 │   │   └── hackerrank-problem.png     ← Problem page screenshot
 │   │   
 │   └── google-form/
-│       ├── google-form-analytics.png  ← Form response analysis
-│       ├── google-form-quiz.png       ← Form page screenshot
-│       ├── google-form-responses.png  ← Response sheet screenshot
-│       └── google-form-link.txt       ← Form link
+│       ├── google-form-analytics.jpeg  ← Form response analysis
+│       ├── google-form-quiz.jpeg       ← Form page screenshot
+│       ├── google-form-responses.jpeg  ← Response sheet screenshot
+│       └── google-form-link.txt        ← Form link
 │
 ├── task-4-email-etiquette/
+│   ├── Project_Report_4.pdf            
 │   ├── email-drafts.pdf                ← Professional email drafts (PDF)
 │   └── social-media-checklist.pdf      ← Social media Do's and Don'ts
 │
 └── task-5-cybercrime/
+    ├── Project_Report_5.pdf
     ├── casestudy.pdf                   ← Phishing case study (PDF)
     └── prevention-checklist.pdf        ← Stay Safe Online checklist
 ```
@@ -89,9 +91,9 @@ Set up professional profiles on three platforms:
 
 | Platform | Profile Link |
 |----------|-------------|
-| **GitHub** | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
-| **LinkedIn** | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| **Kaggle** | [kaggle.com/rajsingh16618](https://kaggle.com/rajsingh16618) |
+| **GitHub** | [github.com/ojasv-1608](https://github.com/ojasv-1608) |
+| **LinkedIn** | [linkedin.com/in/](https://www.linkedin.com/in/) |
+| **Kaggle** | [kaggle.com/](https://kaggle.com/) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
 
@@ -110,8 +112,7 @@ Set up professional profiles on three platforms:
 - Received **5 real responses** from batchmates
 
 > 🔗 **Google Form Link:**
-> https://docs.google.com/forms/d/e/1FAIpQLScKX8Klq4I3ZCK_zXD8LeLdkqvoFqa0ukuGlD2rtVIvFy1LMw/viewform?usp=publish-editor
-
+> 
 ---
 
 ### ✅ Task 4 – Professional Email & Etiquette Guide (Module 4 | 20 Marks)
@@ -144,10 +145,10 @@ Set up professional profiles on three platforms:
 
 | Platform | Link |
 |----------|------|
-| GitHub | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
-| LinkedIn | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| Kaggle | [kaggle.com/rajsingh16618](https://kaggle.com/rajsingh16618) |
-| Email | raj.25bai10997@vitbhopal.ac.in |
+| GitHub | [github.com/](https://github.com/) |
+| LinkedIn | [linkedin.com/in/](https://www.linkedin.com/in/) |
+| Kaggle | [kaggle.com/](https://kaggle.com/) |
+| Email | ojasv.25bce10340@vitbhopal.ac.in |
 
 ---
 
