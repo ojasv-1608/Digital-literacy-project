@@ -7,9 +7,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Ojasv Choubey |
-| **Registration No.** | 25BCE10340 |
-| **Branch** | CSE |
+| **Name** | Aryan Uday Kansagara |
+| **Registration No.** | 25BAI11021 |
+| **Branch** | CSE (AI & ML) |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
@@ -44,23 +44,24 @@ digital-literacy-project/
 │   └── Project_Report.pdf             ← Full written project report
 │
 ├── task-1-presentation/
-│   ├── description.txt                  ← Tool used and reflection
-│   └── digital-literacy-infographic.pdf ← Canva infographic
+│   ├── Project_Report_1.pdf                  ← Tool used and reflection
+│   └── digital-literacy-infographic.png ← Canva infographic
 │
 ├── task-2-portfolio/
-│   ├── description.txt                ← Platforms and future plans
-│   ├── github-profile.pdf             ← GitHub profile screenshot
-│   ├── linkedin-profile.pdf           ← LinkedIn profile screenshot
-│   └── kaggle-profile.pdf             ← Kaggle profile screenshot
+│   ├── Project_Report_2.pdf                ← Platforms and future plans
+│   ├── github-profile.png             ← GitHub profile screenshot
+│   ├── linkedin-profile.png           ← LinkedIn profile screenshot
+│   └── kaggle-profile.png             ← Kaggle profile screenshot
 │
 ├── task-3-platforms/
-│   ├── description.txt                ← Platform overview and reflection
+│   ├── Project_Report_3.pdf                ← Platform overview and reflection
 │   ├── hackerrank/
 │   │   └── hackerrank-problem.png     ← Problem page screenshot
 │   │   
 │   └── google-form/
-│       ├── google-form-quiz.pdf      ← Form page screenshot
-│       ├── google-form-responses.pdf  ← Response sheet screenshot
+│       ├── google-form-analytics.png  ← Form response analysis
+│       ├── google-form-quiz.png       ← Form page screenshot
+│       ├── google-form-responses.png  ← Response sheet screenshot
 │       └── google-form-link.txt       ← Form link
 │
 ├── task-4-email-etiquette/
@@ -109,7 +110,7 @@ Set up professional profiles on three platforms:
 - Received **5 real responses** from batchmates
 
 > 🔗 **Google Form Link:**
-> https://docs.google.com/forms/d/e/1FAIpQLSdE4ahauJNVBuoS2IQ4EnjP-_9q_owMqxhffdXpH1iEqRyshg/viewform?usp=publish-editor
+> https://docs.google.com/forms/d/e/1FAIpQLScKX8Klq4I3ZCK_zXD8LeLdkqvoFqa0ukuGlD2rtVIvFy1LMw/viewform?usp=publish-editor
 
 ---
 
@@ -164,4 +165,3 @@ Set up professional profiles on three platforms:
 ## 📄 Project Report
 
 The full written project report covering all 5 tasks is available at:
-`report/Project_Report.pdf`
