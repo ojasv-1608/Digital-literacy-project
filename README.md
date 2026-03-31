@@ -92,8 +92,8 @@ Set up professional profiles on three platforms:
 | Platform | Profile Link |
 |----------|-------------|
 | **GitHub** | [github.com/ojasv-1608](https://github.com/ojasv-1608) |
-| **LinkedIn** | [linkedin.com/in/](https://www.linkedin.com/in/) |
-| **Kaggle** | [kaggle.com/](https://kaggle.com/) |
+| **LinkedIn** | [linkedin.com/in/ojasv-choubey-270606378](https://www.linkedin.com/in/ojasv-choubey-270606378) |
+| **Kaggle** | [kaggle.com/ojasvchoubey](https://kaggle.com/ojasvchoubey) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
 
@@ -112,7 +112,7 @@ Set up professional profiles on three platforms:
 - Received **5 real responses** from batchmates
 
 > 🔗 **Google Form Link:**
-> 
+> https://docs.google.com/forms/d/e/1FAIpQLScExUMdwVJ0OPLjPZpvT-s58gE0Uud9b4YoH-ovbrbR7Pd3YQ/viewform?usp=publish-editor
 ---
 
 ### ✅ Task 4 – Professional Email & Etiquette Guide (Module 4 | 20 Marks)
@@ -146,8 +146,8 @@ Set up professional profiles on three platforms:
 | Platform | Link |
 |----------|------|
 | GitHub | [github.com/](https://github.com/) |
-| LinkedIn | [linkedin.com/in/](https://www.linkedin.com/in/) |
-| Kaggle | [kaggle.com/](https://kaggle.com/) |
+| LinkedIn | [linkedin.com/in/ojasv-choubey-270606378](https://www.linkedin.com/in/ojasv-choubey-270606378) |
+| Kaggle | [kaggle.com/ojasvchoubey](https://kaggle.com/ojasvchoubey) |
 | Email | ojasv.25bce10340@vitbhopal.ac.in |
 
 ---
